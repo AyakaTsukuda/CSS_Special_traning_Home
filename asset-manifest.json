@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CSS_Special_traning_Home/static/css/main.e6c13ad2.css",
+    "main.js": "/CSS_Special_traning_Home/static/js/main.accb3548.js",
+    "static/js/787.4921e5df.chunk.js": "/CSS_Special_traning_Home/static/js/787.4921e5df.chunk.js",
+    "index.html": "/CSS_Special_traning_Home/index.html",
+    "main.e6c13ad2.css.map": "/CSS_Special_traning_Home/static/css/main.e6c13ad2.css.map",
+    "main.accb3548.js.map": "/CSS_Special_traning_Home/static/js/main.accb3548.js.map",
+    "787.4921e5df.chunk.js.map": "/CSS_Special_traning_Home/static/js/787.4921e5df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.accb3548.js"
+  ]
+}
