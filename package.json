@@ -38,7 +38,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "tailwindcss": "^3.3.2"
   },
   "homepage": "https://AyakaTsukuda.github.io/CSS_Special_traning_Home"
 }
