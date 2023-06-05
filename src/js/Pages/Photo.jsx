@@ -1,9 +1,11 @@
-import TopImage from "../../Images/photo_book_top.jpg"
+import TopImage from "../../Images/photo_book_top.jpg";
 import Container from "../Compornents/Container";
 import Title from "../Compornents/Title";
+import IndexItem from "../Compornents/IndexItem";
 
 
 export default function Photo() {
+
 
     return (
         <div className="absolute h-screen w-screen" style={{backgroundColor:"#F4F9FF"}}>
@@ -14,6 +16,13 @@ export default function Photo() {
                 </header>
                 <Container addClassName="bg-white" addStyle={{padding:"30px"}}>
                     <Title text="INDEX" />
+                    <div className="flex flex-col gap-5">
+                        <IndexItem key={1} />
+                        <IndexItem key={2} />
+                        <IndexItem key={3} />
+                        <IndexItem key={4} />
+                        <IndexItem key={5} />
+                    </div>
                 </Container>
             </div>
         </div>
